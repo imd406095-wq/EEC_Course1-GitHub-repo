@@ -1,0 +1,6 @@
+{
+  "name": "TalentAI",
+  "description": "AI-native talent assessment, interactive technical interview simulator, and candidate report platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
