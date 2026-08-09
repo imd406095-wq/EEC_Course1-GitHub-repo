@@ -1,3 +1,5 @@
+# Personal Details
+
 Name: Mohammed Ibrahim S
 Department: AI and Data Science, Sec: "B" 
 Reg No: 312424243093 
